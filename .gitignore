@@ -12,5 +12,5 @@ wheels/
 # Environment variables
 .env
 
-# LangGraph API cache
+# LangGraph API cache.
 .langgraph_api/
