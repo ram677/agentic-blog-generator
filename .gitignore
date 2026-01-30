@@ -13,4 +13,4 @@ wheels/
 .env
 
 # LangGraph API cache
-.langraph.api/
+.langgraph_api/
